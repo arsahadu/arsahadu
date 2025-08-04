@@ -56,7 +56,7 @@
 - 🐠 [**Coral Reef Health Monitoring**](https://github.com/arsahadu/Coral-Reef-Project)  
   CNN-based underwater image classifier to support marine conservation using deep learning.
 
-- 📈 **Stock Market Forecasting** *(https://github.com/arsahadu/Time-Series-Forecasting-of-Indian-Equity-Market)*
+- 📈 [**Stock Market Forecasting**] (https://github.com/arsahadu/Time-Series-Forecasting-of-Indian-Equity-Market)
   Time Series prediction model using **machine learning algorithms** to analyze and forecast Indian stock prices.
 
 ---
@@ -68,15 +68,6 @@
 - Operating Systems  
 - Database Management  
 - Web Programming
-
----
-
-### 🏅 Certifications & Achievements
-- 🥇 Winner – IEEE TENSLET 2025  
-- 🏆 Finalist – Startup Nexus, Ersmeronz’24  
-- 🧠 Elite – NPTEL Privacy & Security in OSM  
-- 🚀 SAP iTech Hackfest 2024 & 2025 – Participant  
-- 🥇 1600m Relay Champion – 2021
 
 ---
 
