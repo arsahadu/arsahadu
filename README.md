@@ -9,19 +9,19 @@
 
 ---
 
-### 🧑‍💻 About Me
-- 🎓 Pursuing B.E. in **Computer Science & Engineering** at **Thiagarajar College of Engineering**, Class of 2027
-- 📊 Passionate about **Data Analytics**, **AI/ML**, and **Stock Market Forecasting**
-- 🔭 Currently working on:  
+### About Me
+- Pursuing B.E. in **Computer Science & Engineering** at **Thiagarajar College of Engineering**, Class of 2027
+- Passionate about **Data Analytics**, **AI/ML**, and **Stock Market Forecasting**
+- Currently working on:  
   - **Indian Equity Market Forecasting using ML** (Intern @ Megana Technologies)  
   - **AI-based Fire & Smoke Detection** (TCE InLab)
-- ✍️ I love **storytelling with data**, **video editing**, and exploring **finance and digital marketing**
+- I love **storytelling with data**, **video editing**, and exploring **finance and digital marketing**
 
 ---
 
 ### 🛠️ Skills & Tools
 
-#### 💻 Programming Languages
+#### Programming Languages
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
@@ -56,7 +56,7 @@
 - 🐠 [**Coral Reef Health Monitoring**](https://github.com/arsahadu/Coral-Reef-Project)  
   CNN-based underwater image classifier to support marine conservation using deep learning.
 
-- 📈 **Stock Market Forecasting** *(private link)*  
+- 📈 **Stock Market Forecasting** *(https://github.com/arsahadu/Time-Series-Forecasting-of-Indian-Equity-Market)*
   Time Series prediction model using **machine learning algorithms** to analyze and forecast Indian stock prices.
 
 ---
