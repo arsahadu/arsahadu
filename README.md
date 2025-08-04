@@ -13,7 +13,7 @@
 - Pursuing B.E. in **Computer Science & Engineering** at **Thiagarajar College of Engineering**, Class of 2027
 - Passionate about **Data Analytics**, **AI/ML**, and **Stock Market Forecasting**
 - Currently working on:  
-  - **Indian Equity Market Forecasting using ML** (Intern @ Megana Technologies)  
+  - **Indian Equity Market Forecasting using ML** (Intern @ Meganar Technologies)  
   - **AI-based Fire & Smoke Detection** (TCE InLab)
 - I love **storytelling with data**, **video editing**, and exploring **finance and digital marketing**
 
