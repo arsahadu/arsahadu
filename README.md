@@ -29,39 +29,39 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
 
-#### 📊 Libraries & Frameworks
+#### Libraries & Frameworks
 ![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
 ![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
 ![scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikitlearn)
 
-#### 🌐 Web Tech & DB
+#### Web Tech & DB
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
 
-#### ⚙️ Tools & Platforms
+#### Tools & Platforms
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel)
 ![Power BI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)
 
 ---
 
-### 🧠 Projects
+### Projects
 
-- 🔥 [**Real-Time Fire & Smoke Detection**](https://github.com/arsahadu/fire-smoke-detection)  
+- [**Real-Time Fire & Smoke Detection**](https://github.com/arsahadu/fire-smoke-detection)  
   Real-time object detection system using **YOLOv8**, **OpenCV**, and **Gradio UI** with automated email alerts.
 
-- 🐠 [**Coral Reef Health Monitoring**](https://github.com/arsahadu/Coral-Reef-Project)  
+- [**Coral Reef Health Monitoring**](https://github.com/arsahadu/Coral-Reef-Project)  
   CNN-based underwater image classifier to support marine conservation using deep learning.
 
-- 📈 [**Stock Market Forecasting**] (https://github.com/arsahadu/Time-Series-Forecasting-of-Indian-Equity-Market)
+- [**Stock Market Forecasting**] (https://github.com/arsahadu/Time-Series-Forecasting-of-Indian-Equity-Market)
   Time Series prediction model using **machine learning algorithms** to analyze and forecast Indian stock prices.
 
 ---
 
-### 📚 Coursework Highlights
+### Coursework Highlights
 - Data Structures & Algorithms  
 - Object-Oriented Programming  
 - Machine Learning  
@@ -71,7 +71,7 @@
 
 ---
 
-### 🌟 GitHub Stats
+### GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=arsahadu&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsahadu&layout=compact&theme=radical" alt="Top Languages" />
@@ -81,5 +81,5 @@
 
 ### 🙌 Let's Connect
 - 🔗 LinkedIn: [linkedin.com/in/alahadu](https://www.linkedin.com/in/alahadu/)
-- 📧 Email: arsahadu@gmail.com
+- Email: arsahadu@gmail.com
 
