@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Al Ahadu Shiek Hussain</h1>
+<h1 align="center">Hi 👋, I'm Alahadu S</h1>
 <h3 align="center">A CSE Undergrad | AI Enthusiast | Data Analytics Explorer</h3>
 
 <p align="center">
