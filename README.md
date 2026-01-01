@@ -22,7 +22,7 @@
 ### 🛠️ Skills 
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,sass,react,firebase,mysql,mongodb,spring,pandas,numpy,tensorflow,aws" />
+  <img src="https://skillicons.dev/icons?i=python,java,linux,html,css,react,firebase,mysql,mongodb,spring,tensorflow,opencv,sklearn" />
 </p>
 
 ---
@@ -30,7 +30,7 @@
 ### 🛠 IDE and Tools I Use
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,xcode,docker,notion,photoshop,figma,canva" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,docker,notion,photoshop,figma" />
 </p>
 
 
