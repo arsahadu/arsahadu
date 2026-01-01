@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alahadu S</h1>
-<h3 align="center">A CSE Undergrad | AI Enthusiast | Data Analytics Explorer</h3>
+<h3 align="center"> Aspiring IT Professional | Data Engineering Enthusiast | PreFinal Year @TCE | </h3>
 
 <p align="center">
   <a href="mailto:arsahadu@gmail.com"><img src="https://img.shields.io/badge/Email-red?style=flat&logo=gmail&logoColor=white"/></a>
@@ -11,40 +11,28 @@
 
 ### About Me
 - Pursuing B.E. in **Computer Science & Engineering** at **Thiagarajar College of Engineering**, Class of 2027
-- Passionate about **Data Analytics**, **AI/ML**, and **Stock Market Forecasting**
+- Passionate about **Data Engineering**, **Problem Solving using Java**, and **AI/ML**
 - Currently working on:  
   - **Indian Equity Market Forecasting using ML** (Intern @ Meganar Technologies)  
   - **AI-based Fire & Smoke Detection** (TCE InLab)
-- I love **storytelling with data**, **video editing**, and exploring **finance and digital marketing**
+- beyong that I love **storytelling with data**, **video editing**, and exploring **finance and digital marketing**
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Skills 
 
-#### Programming Languages
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,sass,react,firebase,mysql,mongodb,spring,pandas,numpy,tensorflow,aws" />
+</p>
 
-#### Libraries & Frameworks
-![NumPy](https://img.shields.io/badge/-NumPy-05122A?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=pandas)
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
-![scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-05122A?style=flat&logo=scikitlearn)
+---
 
-#### Web Tech & DB
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)
+### 🛠 IDE and Tools I Use
 
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Excel](https://img.shields.io/badge/-Excel-05122A?style=flat&logo=microsoft-excel)
-![Power BI](https://img.shields.io/badge/-PowerBI-05122A?style=flat&logo=powerbi)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,xcode,docker,notion,photoshop,figma,canva" />
+</p>
+
 
 ---
 
